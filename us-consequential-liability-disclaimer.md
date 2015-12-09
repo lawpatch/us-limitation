@@ -1,6 +1,6 @@
 ## Consequential Liability Disclaimer
 
-In no event will the Limiting Party be liable to the Recipient(s) for any Consequential Loss arising out of or in connection with this Agreement.
+In no event will the Limiting Party be liable to the Recipient(s) for any Consequential Loss arising out of or in connection with this Agreement, except as otherwise expressly set forth in the Provision.
 
 ## Definitions
 
