@@ -6,6 +6,9 @@ Subject to any Exceptions, in no event will the Limiting Party be liable to the 
 
 Defined terms in this document will have the meanings described below.
 
+### Agreement
+means the terms and conditions constituting the agreement that incorporates this document.
+
 ### Exception
 means the exception to the limitation of liability in this document that the Provision may or may not describe.
 
