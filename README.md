@@ -32,31 +32,6 @@ Within foreseeable damages, there two sub-classifications: "consequential" and "
 
 A common misconception is that direct damages are foreseeable, and consequentials are not. This is incorrect. Consequential damages are, by definition, foreseeable damages. Unlike direct damages, though, consequentials are unique when compared to the circumstances of a theoretical "typical" seller, service provider, customer, etc., as the case may be.
 
-### Composable Components of a Liability Clause
-
-LawPatch attempts to deconstruct some typical "best practice" variations so that cobtract drafters can compose reasonable limitations of liability in a modular fashion.
-
-Specifically, LawPatch offers the following components:
-
-1. A general disclaimer on a party's exposure to direct and/or consequential damages.
-
-2. Several options for establishing caps (i.e., upper limits) on a party's liability for direct and/or consequential damages. These caps can be applied to all liabilities, or to specific types of claims, as appropriate.
-
-3. Several standard exclusions to the general disclaimers and caps above. These exclusions establish limited scopes of uncapped liability for foreseeable damages.
-
-### Example LawPatch Limitation of Liability Clause
-
-Here's an example of a typical limitation of liability using LawPatch:
-
-> The parties agree that the Provider's liability hereunder to Customer is subject to a <a href="#" target="_blank">General Liability Disclaimer</a> with a <a href="#" target="_blank">Cap on Direct Damages</a> not to exceed two times (2X) the <a href="#" target="_blank">Rolling Annual Fees</a>.
-
-> The following exclusions shall apply to the disclaimers and limits on the Provider's liability hereunder:
--  The <a href="#" target="_blank">General Confidentiality Exclusion</a>
--  The <a href="#" target="_blank">General Indemnity Exclusion</a>
--  The <a href="#" target="_blank">General Public Policy Exclusion</a>
-
-Each of the linked items is further defined within LawPatch.
-
 ### Not Legal Advice
 
 This is not legal advice. Lawyers are involved in producing these terms, but they obviously aren't familiar with your circumstances and don't represent you. Speak to your lawyer to make sure that the limitation language is well aligned with your circumstances.
