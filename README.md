@@ -56,7 +56,7 @@ Position parameters are:
 
 Here is an example of language incorporating the full limitation of liability.
 
-> Provider <a href="https://github.com/lawpatch/us-limitation/blob/v0.1/us-limitation-0.md" target="_blank">limits liability to Customer as much as the law allows</a> for the Services, including liabilities caused by:
+> Provider <a href="https://github.com/lawpatch/us-limitation/blob/df4f935cf5b84432aabfcae3b833768bebcf5493/us-limitation-0.md" target="_blank">limits liability to Customer as much as the law allows</a> for the Services, including liabilities caused by:
 - data loss; and
 - availability of any software or data.
 
@@ -72,7 +72,7 @@ Position parameters are:
 
 Here is an example of language incorporating the limitation to an amount.
 
-> Provider limits liability to Customer for the Services to the cost of the Services in accordance with the <a href="https://github.com/lawpatch/us-limitation/blob/v0.1/us-limitation-1.md" target="_blank">LawPatch amount limitation</a>, including liabilities caused by:
+> Provider limits liability to Customer for the Services to the cost of the Services in accordance with the <a href="https://github.com/lawpatch/us-limitation/blob/df4f935cf5b84432aabfcae3b833768bebcf5493/us-limitation-1.md" target="_blank">LawPatch amount limitation</a>, including liabilities caused by:
 - data loss; and
 - availability of any software or data.
 
@@ -87,7 +87,7 @@ Position parameters are:
 
 Here is an example of language incorporating the limitation of consequential loss.
 
-> Provider <a href="https://github.com/lawpatch/us-limitation/blob/v0.1/us-limitation-2.md" target="_blank">covers liabilities (except for consequential loss)</a> to Customer for the Services, including liabilities caused by:
+> Provider <a href="https://github.com/lawpatch/us-limitation/blob/df4f935cf5b84432aabfcae3b833768bebcf5493/us-limitation-2.md" target="_blank">covers liabilities (except for consequential loss)</a> to Customer for the Services, including liabilities caused by:
 - data loss; and
 - availability of any software or data.
 
@@ -100,24 +100,24 @@ Position parameters are:
 
 Here is an example of language calling a module to cover all losses.
 
-> Provider <a href="https://github.com/lawpatch/us-limitation/blob/v0.1/us-limitation-3.md" target="_blank">covers all liabilities incurred</a> by Customer for the Services.
+> Provider <a href="https://github.com/lawpatch/us-limitation/blob/df4f935cf5b84432aabfcae3b833768bebcf5493/us-limitation-3.md" target="_blank">covers all liabilities incurred</a> by Customer for the Services.
 
 ### Using Multiple Positions
 
 The parties will often have different liability positions in respect of each other.  Here's an example.
 
-> - Provider <a href="https://github.com/lawpatch/us-limitation/blob/v0.1/us-limitation-0.md" target="_blank">limits liability to Customer as much as the law allows</a> for the Services, including liabilities caused by:
+> - Provider <a href="https://github.com/lawpatch/us-limitation/blob/df4f935cf5b84432aabfcae3b833768bebcf5493/us-limitation-0.md" target="_blank">limits liability to Customer as much as the law allows</a> for the Services, including liabilities caused by:
     - data loss; and
     - availability of any software or data.
-- Customer <a href="https://github.com/lawpatch/us-limitation/blob/v0.1/us-limitation-0.md" target="_blank">covers liability except for consequential losses</a> arising from or caused by breaches of the Agreement.
+- Customer <a href="https://github.com/lawpatch/us-limitation/blob/df4f935cf5b84432aabfcae3b833768bebcf5493/us-limitation-0.md" target="_blank">covers liability except for consequential losses</a> arising from or caused by breaches of the Agreement.
 
 There is an optional exception parameter for each position listed above. Here's how it might look if you use it.  In this example, the Provider fully limits liability for services, but makes an exception for certain negligence or misconduct.
 
-> Provider <a href="https://github.com/lawpatch/us-limitation/blob/v0.1/us-limitation-0.md" target="_blank">limits liability to Customer as much as the law allows</a> for the Services, including liabilities caused by:
+> Provider <a href="https://github.com/lawpatch/us-limitation/blob/df4f935cf5b84432aabfcae3b833768bebcf5493/us-limitation-0.md" target="_blank">limits liability to Customer as much as the law allows</a> for the Services, including liabilities caused by:
 - data loss; and
 - availability of any software or data,
 
-> except that, to the extent of Provider's gross negligence and/or wilfull misconduct, Provider shall <a href="https://github.com/lawpatch/us-limitation/blob/v0.1/us-limitation-3.md" target="_blank">remain fully liable</a>.
+> except that, to the extent of Provider's gross negligence and/or wilfull misconduct, Provider shall <a href="https://github.com/lawpatch/us-limitation/blob/df4f935cf5b84432aabfcae3b833768bebcf5493/us-limitation-3.md" target="_blank">remain fully liable</a>.
 
 ### Not Legal Advice
 
